@@ -1,0 +1,10 @@
+C:/Development/src/flutter/assignment/build/windows/CMakeFiles/INSTALL.dir
+C:/Development/src/flutter/assignment/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Development/src/flutter/assignment/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Development/src/flutter/assignment/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Development/src/flutter/assignment/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Development/src/flutter/assignment/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Development/src/flutter/assignment/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Development/src/flutter/assignment/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Development/src/flutter/assignment/build/windows/runner/CMakeFiles/assignment.dir
+C:/Development/src/flutter/assignment/build/windows/runner/CMakeFiles/ALL_BUILD.dir
